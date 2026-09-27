@@ -11,6 +11,8 @@ unless something is broken).
 
 ## Every day
 
+0. Launch date is Monday 2026-09-28. If today (America/Phoenix) is before that, do nothing and end the run.
+
 1. `python3 make_post.py` → renders the next tip to `videos/dayNNN.mp4`, writes `post.json`, advances `state.json`.
    - If it exits with `NO_TIP_FOR_DAY`, first append 7 new tips to `tips.json` (next day numbers),
      following the rules below and the weekly pillar rotation, then rerun.
