@@ -1,5 +1,5 @@
 {
- "next_day": 30,
+ "next_day": 31,
  "history": [
   {
    "day": 1,
@@ -116,6 +116,10 @@
   {
    "day": 29,
    "file": "videos/day029.mp4"
+  },
+  {
+   "day": 30,
+   "file": "videos/day030.mp4"
   }
  ]
 }
