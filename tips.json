@@ -394,5 +394,89 @@
    "If you're unsure, step off and reset."
   ],
   "question": "Ever change your mind mid-swing?"
+ },
+ {
+  "day": 34,
+  "pillar": "Swing Fix",
+  "hook": "Swaying off the ball? Try this.",
+  "thought": "Turn around your trail hip. Don't slide off it.",
+  "beats": [
+   "Feel pressure on the inside of your trail foot.",
+   "Keep your head roughly centered.",
+   "Turn back, then turn through."
+  ],
+  "question": "Do you sway or turn?"
+ },
+ {
+  "day": 35,
+  "pillar": "Short Game",
+  "hook": "Thin pitches? Your wedge has a secret.",
+  "thought": "Use the bounce: let the sole brush the turf.",
+  "beats": [
+   "Don't lean the shaft way forward.",
+   "Let the club thump the ground.",
+   "Brush the grass, don't dig."
+  ],
+  "question": "Are you a digger or a brusher?"
+ },
+ {
+  "day": 36,
+  "pillar": "Putting",
+  "hook": "Putt with your eyes closed. Seriously.",
+  "thought": "Feel the distance, then trust the stroke.",
+  "beats": [
+   "On the practice green, look at the hole.",
+   "Close your eyes and make the stroke.",
+   "Guess long or short before you look."
+  ],
+  "question": "Ever practiced with your eyes closed?"
+ },
+ {
+  "day": 37,
+  "pillar": "Drill",
+  "hook": "Swing with one arm. Watch what happens.",
+  "thought": "Hit half shots with only your lead arm.",
+  "beats": [
+   "Grip down and keep the swings small.",
+   "Turn your chest to move the club.",
+   "It shows when your arms take over."
+  ],
+  "question": "Which arm is harder for you?"
+ },
+ {
+  "day": 38,
+  "pillar": "Course Smarts",
+  "hook": "Bogeys don't wreck rounds. Doubles do.",
+  "thought": "In trouble, play for bogey and move on.",
+  "beats": [
+   "One bad swing doesn't need a hero shot.",
+   "Get back in play, then get on the green.",
+   "Two putts from there is a fine score."
+  ],
+  "question": "How many doubles last round?"
+ },
+ {
+  "day": 39,
+  "pillar": "Myth vs. Fact",
+  "hook": "A slow backswing isn't the magic fix.",
+  "thought": "Smooth tempo beats slow motion.",
+  "beats": [
+   "A crawling takeaway can kill your rhythm.",
+   "Good players keep a steady, even tempo.",
+   "Think smooth back, smooth through."
+  ],
+  "question": "Fast or slow backswing?"
+ },
+ {
+  "day": 40,
+  "pillar": "Mental Game",
+  "hook": "Pick a tiny target. Every shot.",
+  "thought": "Aim small, miss small.",
+  "beats": [
+   "A whole fairway is too vague.",
+   "Pick a tree, a roof or a bunker edge.",
+   "Lock onto it before you set up."
+  ],
+  "question": "What do you aim at off the tee?"
  }
 ]
